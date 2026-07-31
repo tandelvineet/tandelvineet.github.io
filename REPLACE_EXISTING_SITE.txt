@@ -1,0 +1,15 @@
+HOW TO REPLACE THE CURRENT GITHUB SITE
+
+1. Extract vineet-portfolio-final-verified.zip.
+2. Open the tandelvineet.github.io repository.
+3. Remove the old assets, downloads and projects folders, plus the old index.html, styles.css and script.js.
+4. Upload EVERY file and folder from the extracted package.
+5. Commit with the message: Upload corrected portfolio website.
+6. Wait a few minutes and open https://tandelvineet.github.io/
+
+CHECK AFTER PUBLISHING
+- The Email link displays: tandelvineet@gmail.com
+- The LinkedIn link opens: https://www.linkedin.com/in/vineettandel/
+- The phone link displays: +1 (437) 607-2121
+- Every project card opens.
+- Every download button works.

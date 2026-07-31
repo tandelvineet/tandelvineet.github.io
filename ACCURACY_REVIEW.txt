@@ -1,0 +1,29 @@
+PORTFOLIO ACCURACY REVIEW
+
+SOURCE OF TRUTH
+- Uploaded resume: Vineet Resume(3).pdf
+- Uploaded capstone report: Final (2).docx
+- Uploaded Excel workbook and Bizagi coursework files
+
+VERIFIED PROFILE
+- Name: Vineet Tandel
+- Professional title: Business Analyst — Data & Operations
+- Focus: Power BI, Excel, SQL, operational data and business insights
+- Email: tandelvineet@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vineettandel/
+- Phone: +1 (437) 607-2121
+
+VERIFIED CERTIFICATIONS
+- Lean Six Sigma Black Belt — KPMG
+- CCBA — IIBA, in progress
+
+CONTENT BOUNDARY
+- The website uses only the certifications listed in the uploaded resume.
+- The professional focus is data-driven business analysis rather than a broad list of unrelated roles.
+
+CONTENT POSITIONING
+- The About section focuses on working with data, identifying trends and providing useful insights.
+- The Leanacle project is labelled as an academic group project with Vineet as Team Lead.
+- The process maps are labelled as academic team coursework.
+- Independently created samples are clearly labelled as practice samples.
+- The Power BI sample is described as a dataset and static dashboard concept, not as a PBIX file.
