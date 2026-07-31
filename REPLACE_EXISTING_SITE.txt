@@ -1,9 +1,0 @@
-HOW TO REPLACE THE CURRENT GITHUB SITE
-
-1. Open the tandelvineet.github.io repository.
-2. Delete the old assets folder, projects folder, index.html, styles.css and script.js.
-3. Upload every file and folder from this new package.
-4. Commit with the message: Replace portfolio with revised version.
-5. Wait a few minutes and open https://tandelvineet.github.io/
-
-Do not upload only the ZIP file. Upload the extracted contents.
