@@ -1,0 +1,35 @@
+PORTFOLIO CUSTOMIZATION CHECKLIST
+
+1. Open index.html and update:
+   - LinkedIn URL
+   - GitHub URL
+   - Resume link
+   - Job title and summary, if desired
+
+2. Add your resume:
+   - Copy your PDF into the assets folder.
+   - Rename it Vineet-Tandel-Resume.pdf.
+   - Replace href="#" in the Resume button with:
+     href="assets/Vineet-Tandel-Resume.pdf"
+
+3. Review every project page:
+   - Keep only information you are allowed to publish.
+   - Replace sample content with your own evidence.
+   - Use anonymized or mock data.
+
+4. Replace visuals:
+   - Export Power BI pages as images after replacing real data with mock data.
+   - Export Figma wireframes as PNG or SVG.
+   - Export process maps and journey maps as PNG or SVG.
+   - Keep filenames simple and update the image path in each HTML page.
+
+5. Test locally:
+   - Double-click index.html.
+   - Open every project.
+   - Test on a phone-sized browser window.
+   - Check all links.
+
+6. Publish:
+   - Create YOUR-USERNAME.github.io on GitHub.
+   - Upload the contents of this folder.
+   - Enable GitHub Pages from main / root.

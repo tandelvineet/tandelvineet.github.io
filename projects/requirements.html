@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Dashboard Filter Requirements — Vineet Tandel portfolio artifact.">
+  <title>Dashboard Filter Requirements | Vineet Tandel</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="container nav">
+    <a class="brand" href="../index.html"><span class="brand-mark">VT</span><span>Vineet Tandel</span></a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links">Menu</button>
+    <ul class="nav-links" id="nav-links">
+      <li><a href="../index.html#work">Portfolio</a></li>
+      <li><a href="../index.html#about">About</a></li>
+      <li><a href="../index.html#contact">Contact</a></li>
+    </ul>
+  </div>
+</header>
+<main id="main">
+  <section class="project-hero">
+    <div class="container">
+      <div class="breadcrumb"><a href="../index.html">Home</a> / Requirements Document</div>
+      <div class="eyebrow">Requirements Document</div>
+      <h1>Dashboard Filter Requirements</h1>
+      <p class="project-subtitle">A sample requirements package showing traceable user stories, functional requirements and acceptance criteria.</p>
+    </div>
+  </section>
+  <section>
+    <div class="container project-layout">
+      <article class="project-body">
+        <div class="artifact-frame"><img src="../assets/requirements-preview.svg" alt="Dashboard Filter Requirements artifact preview"></div>
+        
+<h2>Feature</h2>
+<p>Add regional filters, persistent filter visibility, one-click reset and filter context in exported dashboard reports.</p>
+<h2>Functional requirements</h2>
+<table class="requirement-table">
+  <thead><tr><th>ID</th><th>Requirement</th><th>Priority</th></tr></thead>
+  <tbody>
+    <tr><td>FR-01</td><td>The dashboard shall allow users to select one or more regions.</td><td>Must</td></tr>
+    <tr><td>FR-02</td><td>The dashboard shall display all active filters above the report canvas.</td><td>Must</td></tr>
+    <tr><td>FR-03</td><td>The user shall be able to clear all filters with one action.</td><td>Should</td></tr>
+    <tr><td>FR-04</td><td>Exports shall include the selected filter context and export timestamp.</td><td>Must</td></tr>
+  </tbody>
+</table>
+<h2>Acceptance criteria — US-01</h2>
+<ul>
+  <li><strong>Given</strong> the user has access to the dashboard, <strong>when</strong> one or more regions are selected, <strong>then</strong> all visuals update to the chosen region set.</li>
+  <li><strong>Given</strong> filters are active, <strong>when</strong> the user opens another report page, <strong>then</strong> the selected region filters remain applied.</li>
+  <li><strong>Given</strong> no region is selected, <strong>when</strong> the report loads, <strong>then</strong> the dashboard displays the permitted enterprise-wide view.</li>
+</ul>
+<h2>Non-functional considerations</h2>
+<p>Filtered pages should load within the agreed performance threshold, respect row-level security and meet basic keyboard accessibility expectations.</p>
+<div class="callout"><strong>Assumption:</strong> User permissions and region access rules already exist and are managed outside this feature.</div>
+
+      </article>
+      <aside class="sidebar-card">
+        <h3>Project overview</h3>
+        <ul class="sidebar-list">
+          <li><strong>Type</strong><span>Requirements Document</span></li>
+          <li><strong>My role</strong><span>Business Analyst / Product Analyst</span></li>
+          <li><strong>Tools / methods</strong><span>User stories, acceptance criteria, MoSCoW, backlog refinement</span></li>
+          <li><strong>Duration</strong><span>Sample sprint preparation: 2 days</span></li>
+          <li><strong>Confidentiality</strong><span>Anonymized or independently created sample</span></li>
+        </ul>
+        <div class="tag-list">
+          <a class="button button-secondary" href="../index.html#work">← Back to portfolio</a>
+        </div>
+      </aside>
+    </div>
+  </section>
+</main>
+<footer class="site-footer"><div class="container footer-row"><span>© <span data-year></span> Vineet Tandel</span><span>Portfolio artifact</span></div></footer>
+<script src="../script.js"></script>
+</body>
+</html>
